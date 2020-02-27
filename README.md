@@ -8,7 +8,7 @@ The use of Deep Learning techniques to solve problems in the field of literary a
 
 ## Approach
 
-![appraoch.png](/tags/apporach.png)
+![approach.png](/tags/approach.png)
 
 ## Setup
 

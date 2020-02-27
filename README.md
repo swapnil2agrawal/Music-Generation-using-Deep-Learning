@@ -4,7 +4,7 @@
 The use of Deep Learning techniques to solve problems in the field of literary arts has gained recent interest among researchers. Generating musical content that is both- pleasant to hear and obeys the rules and structure of music theory is the biggest challenge. The ulterior motive of this task is to enhance the creativity of an artist and produce new compositions that are similar in style and dynamics to an original artist.  In this project, we attempt to translate the task of music generation to a language modelling problem. We apply the ‘bag-of-frames’ approach and vector quantize the log mel-spectrograms of raw audio files into a vector of ‘symbols’ that can now be interpreted as a language sequence. 
 
 
-![image1.png](attachment:image.png)
+![tags/approach.png](attachment:image.png)
 
 ## Approach
 
